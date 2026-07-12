@@ -4,7 +4,7 @@
 
 # FreeTube Redirect
 
-**Open every YouTube link in [FreeTube](https://freetubeapp.io/) — automatically, from anywhere on your system.**
+**Open every YouTube link in [FreeTube](https://freetubeapp.io/) from anywhere on your system.**
 
 ![Chrome](https://img.shields.io/badge/Chrome-supported-22d3ee?style=flat-square&logo=googlechrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-supported-22d3ee?style=flat-square)
