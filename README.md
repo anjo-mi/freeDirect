@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icons/free-direction.png" alt="FreeTube Redirect icon" width="96" />
+<img src="icons/free-direction.png" alt="FreeTube Redirect icon" width="200" />
 
 # FreeTube Redirect
 
