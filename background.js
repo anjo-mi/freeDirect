@@ -11,11 +11,11 @@ chrome.webNavigation.onBeforeNavigate.addListener(async (details) => {
 
   chrome.tabs.update(details.tabId, { url: "freetube://" + details.url });
 
-  const { handoffs = 0 } = await chrome.storage.local.get("handoffs");
-  await chrome.storage.local.set({ handoffs: handoffs + 1 });
+  const { freeDirects = 0 } = await chrome.storage.local.get("freeDirects");
+  await chrome.storage.local.set({ freeDirects: freeDirects + 1 });
 
   if (!disposable) return;
-  if (handoffs === 0) return;
+  if (freeDirects === 0) return;
 
   chrome.tabs.remove(details.tabId);
 });
