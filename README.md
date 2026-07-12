@@ -27,7 +27,7 @@ Web Extension that's compatible with Chrome. Intercept requests made from Chrome
 
 ### 1. Install FreeTube
 
-Download and install **[FreeTube from here]("https://freetubeapp.io/#download")**.
+Download and install **[FreeTube from here](https://freetubeapp.io/#download)**.
 
 <div align="center">
   <img width="1297" height="633" alt="image" src="https://github.com/user-attachments/assets/fc6a96e0-3759-40a0-96b2-140bb1afa39e" alt="FreeTube download page" width="600" />
