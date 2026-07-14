@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="icons/free-direction.png" alt="FreeTube Redirect icon" width="96" />
+<img src="icons/free-direction.png" alt="FreeTube Redirect icon" width="200" />
 
 # FreeTube Redirect
 
-**Open every YouTube link in [FreeTube](https://freetubeapp.io/) — automatically, from anywhere on your system.**
+**Open every YouTube link in [FreeTube](https://freetubeapp.io/) from anywhere on your system.**
 
 ![Chrome](https://img.shields.io/badge/Chrome-supported-22d3ee?style=flat-square&logo=googlechrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-supported-22d3ee?style=flat-square)
@@ -27,7 +27,7 @@ Web Extension that's compatible with Chrome. Intercept requests made from Chrome
 
 ### 1. Install FreeTube
 
-Download and install **[FreeTube from here.]("https://freetubeapp.io/#download")**.
+Download and install **[FreeTube from here](https://freetubeapp.io/#download)**.
 
 <div align="center">
   <img width="1297" height="633" alt="image" src="https://github.com/user-attachments/assets/fc6a96e0-3759-40a0-96b2-140bb1afa39e" alt="FreeTube download page" width="600" />
