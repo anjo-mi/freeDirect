@@ -5,7 +5,7 @@
 # FreeTube Redirect
 
 <div align="center">
-  <a href="https://chromewebstore.google.com/detail/free-direction/jfimldfdhpdnkdcgdmdgmhfmjlnjdapj?authuser=0&hl=en">
+  <a href="https://chromewebstore.google.com/detail/free-direction/jfimldfdhpdnkdcgdmdgmhfmjlnjdapj?authuser=0&hl=en" target="_blank">
   <img width="340" height="96" alt="image" src="https://github.com/user-attachments/assets/5359ebb1-8fde-4f21-b5e3-27d6cf0ea5bd" />
   </a>
 </div>
