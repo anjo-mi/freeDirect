@@ -4,6 +4,12 @@
 
 # FreeTube Redirect
 
+<div align="center">
+  <a href="https://chromewebstore.google.com/detail/free-direction/jfimldfdhpdnkdcgdmdgmhfmjlnjdapj?authuser=0&hl=en">
+  <img width="340" height="96" alt="image" src="https://github.com/user-attachments/assets/5359ebb1-8fde-4f21-b5e3-27d6cf0ea5bd" />
+  </a>
+</div>
+
 **Open every YouTube link in [FreeTube](https://freetubeapp.io/) from anywhere on your system.**
 
 ![Chrome](https://img.shields.io/badge/Chrome-supported-22d3ee?style=flat-square&logo=googlechrome&logoColor=white)
@@ -41,7 +47,7 @@ Open FreeTube → **Settings** → **General** and toggle on the option to open 
   <img width="1409" height="547" alt="image" src="https://github.com/user-attachments/assets/59c24560-09a5-40a7-b2ef-ffdb589f85f9" alt="FreeTube new window setting" width="600"/>
 </div>
 
-### 3. Make sure the Extension is unpacked in your default browser, and that is Chrome or Edge
+### 3. Make sure Chrome or Edge is your default browser
 
 > Links clicked in external apps (Discord, Slack, email clients, etc.) are routed through your default browser.
 > If the extension is on a non-default browser, it won't have te opportunity to intercept.
@@ -50,25 +56,9 @@ Open FreeTube → **Settings** → **General** and toggle on the option to open 
 
 ## Setup
 
-1. Clone the repo wherever you keep local projects:
+1. Open a YouTube link from your browser or any external app. **⚠️ You will be asked to grant permission for FreeTube to be opened. ⚠️ You will then have to manually close the YouTube page on this initial set up run!!! ⚠️**
 
-   ```bash
-   git clone https://github.com/anjo-mi/freeDirect.git
-   ```
-
-2. Open your browser's extensions page: `chrome://extensions` (or `edge://extensions`)
-
-3. Toggle on **Developer mode** (top-right corner)
-
-4. Click **Load unpacked** and select the cloned folder `/freeDirect`
-
-<div align="center">
-  <img width="1064" height="201" alt="image" src="https://github.com/user-attachments/assets/dbb2ed7c-2ecc-4ec9-ab8a-97efe2c0ae2d" alt="Chrome DevTools" width="600" />
- </div>
-
-5. Open a YouTube link from your browser or any external app. **⚠️ You will be asked to grant permission for FreeTube to be opened. ⚠️ You will then have to manually close the YouTube page on this initial set up run!!! ⚠️**
-
-6. As long as Permission was granted, all subsequent runs should work as expected. If permission was accidentally denied, see [This section](#missed-or-denied-the-permission-prompt)
+2. As long as Permission was granted, all subsequent runs should work as expected. If permission was accidentally denied, see [This section](#missed-or-denied-the-permission-prompt)
 
 ---
 
